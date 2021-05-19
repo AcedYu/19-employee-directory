@@ -1,27 +1,6 @@
-# 19-Clicky-Game
-This assignment was assigned by the U.C. Berkeley Extension Full-time Full Stack Flex Boot Camp.
-This is assignment 19 for the program. In this assignment I was tasked to create an employee directory with React. This assignment required me to break up my application's UI into components, manage component state, and respond to user events.
+# Getting Started with Create React App
 
-It contains notable features such as:
-- An organized list of contacts and their data
-- A search input that filters the displayed contacts
-
-![Image](INSERT PHOTO URL HERE)
-
-Due: Friday, May 21, 2021 11:59 PM
-
-## Getting Started
-This application is already deployed, however these instructions will get you a copy of the project up and running on your local machine for development and testing purposes. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Prerequisites
-
-Node.js is required.
-
-### Installing
-To install the necessary dependencies, run the npm installation command
-```
-npm install
-```
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -60,17 +39,32 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Built With
+## Learn More
 
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Create React App](https://github.com/facebook/create-react-app)
-* [React](https://reactjs.org/docs/getting-started.html)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Deployed Link
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-* [See Live Site](LIVE SITE URL HERE)
+### Code Splitting
 
-## Authors
-AcedYu
-- [Link to Github](https://github.com/AcedYu)
-- [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
