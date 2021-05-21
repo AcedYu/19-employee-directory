@@ -68,7 +68,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Deployed Link
 
-* [See Live Site](LIVE SITE URL HERE)
+* [See Live Site](https://acedyu.github.io/19-employee-directory/)
 
 ## Authors
 AcedYu
