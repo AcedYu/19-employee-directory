@@ -6,7 +6,7 @@ It contains notable features such as:
 - An organized list of contacts and their data
 - A search input that filters the displayed contacts
 
-![Image](INSERT PHOTO URL HERE)
+![Image](./public/demo.png)
 
 Due: Friday, May 21, 2021 11:59 PM
 
